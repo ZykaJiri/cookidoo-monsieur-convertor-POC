@@ -3,6 +3,8 @@
 ## To get the raw recipes from cookidoo use cookidump or scrape them from network tab in browser
 https://github.com/auino/cookidump
 
+You may also use the dumped-recipes.json which is taken from cookidump
+
 ## Requirements
 - PHP 8+
 - Composer
